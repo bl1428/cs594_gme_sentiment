@@ -135,3 +135,4 @@ output_body/
 output_title/
 data/wsb_comments_raw.csv
 venv/
+data/preprocessed_text.csv
