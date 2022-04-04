@@ -128,3 +128,11 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .DS_Store
+
+.idea/
+.env/
+output_body/
+output_title/
+data/wsb_comments_raw.csv
+venv/
+data/preprocessed_text.csv
